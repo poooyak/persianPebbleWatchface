@@ -1,0 +1,75 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "khaloo.hastam@gmail.com",
+    "longName": "Persian Calendar",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/batteryCharge 2.png",
+                "name": "IMG_BATTRY_CHARGE",
+                "type": "png"
+            },
+            {
+                "file": "images/battery100.png",
+                "name": "IMG_BATTRY_100",
+                "type": "png"
+            },
+            {
+                "file": "images/battery90.png",
+                "name": "IMG_BATTRY_90",
+                "type": "png"
+            },
+            {
+                "file": "images/battery80.png",
+                "name": "IMG_BATTRY_80",
+                "type": "png"
+            },
+            {
+                "file": "images/battery70.png",
+                "name": "IMG_BATTRY_70",
+                "type": "png"
+            },
+            {
+                "file": "images/battery60.png",
+                "name": "IMG_BATTRY_60",
+                "type": "png"
+            },
+            {
+                "file": "images/battery50.png",
+                "name": "IMG_BATTRY_50",
+                "type": "png"
+            },
+            {
+                "file": "images/battery40.png",
+                "name": "IMG_BATTRY_40",
+                "type": "png"
+            },
+            {
+                "file": "images/battery30.png",
+                "name": "IMG_BATTRY_30",
+                "type": "png"
+            },
+            {
+                "file": "images/battery20.png",
+                "name": "IMG_BATTRY_20",
+                "type": "png"
+            },
+            {
+                "file": "images/battery10.png",
+                "name": "IMG_BATTRY_10",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Persian Calendar",
+    "uuid": "65c005c4-04e4-45f1-8ca2-8c5c9e63ba05",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
